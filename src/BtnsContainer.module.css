@@ -1,0 +1,16 @@
+.btnsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    background-color: #b2b2b2;
+    cursor: pointer;
+    color: aliceblue;
+    border: 1px solid rgb(115, 106, 106);
+    border-radius: 3px;
+}
